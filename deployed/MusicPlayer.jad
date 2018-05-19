@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Jar-URL: MusicPlayer.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: MainActivity,,ml.w568w.musicplayer.MainActivity
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Jar-Size: 6887
+MIDlet-Name: MusicPlayer Midlet Suite
